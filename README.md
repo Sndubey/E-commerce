@@ -1,0 +1,1 @@
+This is a fully functional E-Commerce web application built using **ASP.NET with C#** and **SQL Server** for database management. It was developed as part of a college subject project to demonstrate the concepts of web development, database integration, and CRUD operations in a real-world shopping platform.
